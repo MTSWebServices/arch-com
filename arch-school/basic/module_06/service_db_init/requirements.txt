@@ -7,7 +7,7 @@ h11==0.14.0
 httptools==0.5.0
 idna==3.4
 kafka-python==2.0.2
-mysql-connector-python==8.0.31
+mysql-connector-python==9.1.0
 numpy==1.23.4
 pandas==1.5.1
 protobuf==3.20.1
